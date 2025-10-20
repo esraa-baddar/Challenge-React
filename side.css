@@ -1,0 +1,20 @@
+.side-menu{
+    border: 5px solid;
+    border-color: rgb(46 ,155,115);
+    justify-content: flex-start;
+ width: 300px;
+ margin-top: 20px;
+
+
+}
+button{
+    background-color: rgb(104, 15, 112);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    color:white;
+    margin-bottom: 10px;
+    margin-left: 40px
+}

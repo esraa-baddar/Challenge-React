@@ -1,0 +1,17 @@
+.header{
+ background-color: rgb(46, 115, 115);
+ color: white;
+ border-radius: 10px;
+ height: 75px;
+ width: 100%;
+ -webkit-border-radius: 10px;
+ -moz-border-radius: 10px;
+ -ms-border-radius: 10px;
+ -o-border-radius: 10px;
+ text-align: center;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 30px;
+ box-shadow:0 5px 13px rgba(0,0,0,0.4)
+}
